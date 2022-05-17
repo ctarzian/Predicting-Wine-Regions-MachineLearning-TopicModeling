@@ -1,4 +1,4 @@
-# Predicting-Wine-Regions
+# Uncovering Regional Differences in Wine based on Wine Reviews
 
 Analzyed a comprehensive dataset of wine reviews from around the world (https://www.kaggle.com/zynicide/wine-reviews).
 
